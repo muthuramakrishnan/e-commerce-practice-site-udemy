@@ -1,0 +1,52 @@
+ "scripts": {
+    "start":"node backend/server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT & nodemon backend/server",
+    "prod": "SET NODE_ENV=PRODUCTION & nodemon backend/server"
+  },
+
+  set node_env --> sets the environment in the .env file & nodemon starts the nodemon server
+
+  for managing environment in .ENV FILE we have installed npm package dotenv
+
+
+  THere are several types of errors -syntax errors, runtime errors and logical errors. 
+  you can throw either of them.
+  if u did not mention -> ur error name is error itself
+  to throw custom error u show call the following line --> throw new Error('error name' , statusCode);
+  or u can customize error throwing
+
+  like return next(new ErrorHandler('Product not Found', 404));
+
+
+  MONGO DB
+  $regex 
+  MongoDB Enterprise > db.products.find({name:{$regex: 'Sandisk'}}).pretty()
+{
+        "_id" : ObjectId("603b550a27ee3d29c8b95c3e"),
+        "price" : 50,
+        "ratings" : 4.5,
+        "stock" : 5,
+        "numOfReviews" : 2,
+        "name" : "Sandisk ultra pendrive",
+        "description" : "Pendrive",
+        "images" : [
+                {
+                        "_id" : ObjectId("603b550a27ee3d29c8b95c3f"),
+                        "public_id" : "products/tzfsnrli3szrdnb4jgge",
+                        "url" : "https://cloudinary-res.cloudinary.com/images/c_scale,f_auto,q_auto,w_914/v1607955984/hero_image/hero_image.png"
+                }
+        ],
+        "category" : "Electronics",
+        "seller" : "Muthu",
+        "reviews" : [ ],
+        "createdAt" : ISODate("2021-02-28T08:32:10.593Z"),
+        "__v" : 0
+}
+
+
+
+
+react-alert --> will show the alert messages
+react-alert-template-basic - template of react alert
+react-helmet --> custom data to the page --> ex u can add custom title to the page
+redux-devtools-extension -> to manage redux

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Apple iPhone 12 Pro Max",
+        "price": "1500.00",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quidem soluta sed nesciunt eos dicta vel aliquam itaque, corporis esse officia earum odit tenetur rerum nisi aspernatur facere repellat, labore dolor eius, iusto delectus ullam! Eum, rerum quaerat? Expedita ut, laborum voluptatibus vitae veniam explicabo voluptate ratione ea facere veritatis.",
+        "ratings": 4.9,
+        "images":[{
+            "public_id":"products/71tT8J5cKuL._SX679__dtznca",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544660/products/71tT8J5cKuL._SX679__dtznca.jpg"
+        }],
+        "category":"Phone",
+        "seller":"Muthu",
+        "stock":5,
+        "numOfReviews":2,
+        "reviews":[]
+    },
+    {
+        "name": "Samsung Smart TV 43Inch",
+        "price": "1250.00",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quidem soluta sed nesciunt eos dicta vel aliquam itaque, corporis esse officia earum odit tenetur rerum nisi aspernatur facere repellat, labore dolor eius, iusto delectus ullam! Eum, rerum quaerat? Expedita ut, laborum voluptatibus vitae veniam explicabo voluptate ratione ea facere veritatis.",
+        "ratings": 4.5,
+        "images":[{
+            "public_id":"products/81Pp_KXbrjL._SL1500__nywiyt",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544661/products/81Pp_KXbrjL._SL1500__nywiyt.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Muthu",
+        "stock":12,
+        "numOfReviews":1,
+        "reviews":[]
+    },
+    {
+        "name": "Samsung S21 Ultra",
+        "price": "999.00",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quidem soluta sed nesciunt eos dicta vel aliquam itaque, corporis esse officia earum odit tenetur rerum nisi aspernatur facere repellat, labore dolor eius, iusto delectus ullam! Eum, rerum quaerat? Expedita ut, laborum voluptatibus vitae veniam explicabo voluptate ratione ea facere veritatis.",
+        "ratings": 4.5,
+        "images":[{
+            "public_id":"products/917nPCOw9-L._SX466__kedu3a",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544661/products/917nPCOw9-L._SX466__kedu3a.jpg"
+        }],
+        "category":"Phone",
+        "seller":"Sam Stores",
+        "stock":4,
+        "numOfReviews":10,
+        "reviews":[]
+    },
+    {
+        "name": "Philips Washing Machine",
+        "price": "250.00",
+        "description": "Electronics",
+        "ratings": 4.5,
+        "images":[{
+            "public_id":"products/download_op8zme",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544661/products/download_op8zme.webp"
+        }],
+        "category":"Electronics",
+        "seller":"Muthu",
+        "stock":7,
+        "numOfReviews":2,
+        "reviews":[]
+    },
+    {
+        "name": "Redmi Note 9",
+        "price": "750.00",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quidem soluta sed nesciunt eos dicta vel aliquam itaque, corporis esse officia earum odit tenetur rerum nisi aspernatur facere repellat, labore dolor eius, iusto delectus ullam! Eum, rerum quaerat? Expedita ut, laborum voluptatibus vitae veniam explicabo voluptate ratione ea facere veritatis.",
+        "ratings": 4.1,
+        "images":[{
+            "public_id":"products/71A9Vo1BatL._SX569__ps7xdm",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544660/products/71A9Vo1BatL._SX569__ps7xdm.jpg"
+        }],
+        "category":"Phone",
+        "seller":"Muthu",
+        "stock":15,
+        "numOfReviews":2,
+        "reviews":[]
+    },
+    {
+        "name": "Mac Book Pro",
+        "price": "1700.00",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quidem soluta sed nesciunt eos dicta vel aliquam itaque, corporis esse officia earum odit tenetur rerum nisi aspernatur facere repellat, labore dolor eius, iusto delectus ullam! Eum, rerum quaerat? Expedita ut, laborum voluptatibus vitae veniam explicabo voluptate ratione ea facere veritatis.",
+        "ratings": 4.1,
+        "images":[{
+            "public_id":"products/71an9eiBxpL._SL1500__htjdh3",
+            "url":"https://res.cloudinary.com/dt8ldfugo/image/upload/v1615544660/products/71an9eiBxpL._SL1500__htjdh3.jpg"
+        }],
+        "category":"Laptop",
+        "seller":"Muthu",
+        "stock":15,
+        "numOfReviews":2,
+        "reviews":[]
+    }
+]
