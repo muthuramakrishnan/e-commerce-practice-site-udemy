@@ -73,6 +73,7 @@ const Login = ({ history }) => {
                                         LOGIN
          </button>
                                     <Link to="/register" className="float-right mt-3">New User?</Link>
+                                    <p>test user: test@example.com<br/>  password: 12345678</p>
                                 </form>
                             </div>
                         </div>
